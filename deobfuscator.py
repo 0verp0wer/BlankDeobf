@@ -28,7 +28,7 @@ text = '''
 '''[1:]
 
 System.Clear()
-System.Title("Kramers by ꧁𝕆𝕧𝕖𝕣𝕡𝕠𝕨𝕖𝕣༄꧂#2524")
+System.Title("BlankDEOBF by ꧁𝕆𝕧𝕖𝕣𝕡𝕠𝕨𝕖𝕣༄꧂#2524")
 System.Size(140, 45)
 Anime.Fade(Center.Center(banner), Colors.red_to_yellow, Colorate.Vertical, enter=True)
 System.Size(130, 30)
